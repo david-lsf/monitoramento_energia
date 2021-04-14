@@ -17,7 +17,7 @@ SoftwareSerial.h > Para comunicação serial
 
 ArduinoJson.h > Envio de dados atraves da serial
 
-<ESP8266WiFi.h > Utilização do WIFI do módulo ESP8266
+ESP8266WiFi.h > Utilização do WIFI do módulo ESP8266
 
 ESP8266WebServer.h> Criar o modo de comunicação do ESP8266
 
