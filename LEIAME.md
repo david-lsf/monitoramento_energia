@@ -2,11 +2,13 @@
 
 Desenvolvimento de um protótipo de tomada inteligente para monitoramento de energia elétrica residencial.
 
-Sensores utilizados: 
-Sensor de tensão ZMPT101B
-Sensor de corrente SCT-013-020
+Sensores utilizados
 
-Para o funcionamento do mesmo, é necessário a calibração correta dos sensores e download das seguuintes bibliotecas:
+Sensor de tensão: ZMPT101B
+
+Sensor de corrente: SCT-013-020
+
+Para o funcionamento do mesmo, é necessário a calibração correta dos sensores e download das seguintes bibliotecas:
 
 
 EmonLib.h > Leitura e tratamento de dados dos sensores
